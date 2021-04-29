@@ -32,7 +32,18 @@ Silver sponsor:
 
 Table of contents:
 
-- TBA
+- About Code It Up
+- Caution About The Topic
+- Why Functional Programming
+- The Basic Requirements In C#
+- Common Concepts
+- Thinking Functionally
+- Functional Techniques
+- Functional Abstractions
+- Monads From Practice
+- Practical Applications
+- Going Even Further
+- Functional Libraries
 
 If you'd like to support me and my projects, please consider:
 
